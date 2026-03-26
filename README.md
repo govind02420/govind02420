@@ -20,6 +20,52 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
 ![Docker](https://img.shields.io/badge/Docker-Containers-green)
 
+## 🛠 Tech Stack
+
+### 💳 PCC & Banking Domain
+![PowerCurve](https://img.shields.io/badge/PowerCurve_Collections-PCC-blue)
+![CDS](https://img.shields.io/badge/CDS-Strategies-informational)
+![Batch](https://img.shields.io/badge/Batch-Processing-success)
+
+### 🗄 Database
+![Oracle](https://img.shields.io/badge/Oracle-DB-red)
+![SQL](https://img.shields.io/badge/SQL-Query-blue)
+![PLSQL](https://img.shields.io/badge/PLSQL-Procedures-orange)
+
+### 🔄 ETL
+![Informatica](https://img.shields.io/badge/Informatica-ETL-yellow)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![EC2](https://img.shields.io/badge/EC2-Compute-lightgrey)
+![S3](https://img.shields.io/badge/S3-Storage-green)
+![RDS](https://img.shields.io/badge/RDS-Database-blue)
+
+### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-black)
+
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Ansible](https://img.shields.io/badge/Ansible-Config-black)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
+![ELK](https://img.shields.io/badge/ELK-Logging-green)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-AWS-blue)
+
+### 🐧 OS & Automation
+![Linux](https://img.shields.io/badge/Linux-OS-black)
+![Shell](https://img.shields.io/badge/Shell-Scripting-grey)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![JIRA](https://img.shields.io/badge/JIRA-Tracking-blue)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green)
+
 ---
 
 ## 🚀 Featured Projects
