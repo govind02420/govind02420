@@ -14,13 +14,6 @@
 ---
 
 ## 🛠 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Docker](https://img.shields.io/badge/Docker-Containers-green)
-
-## 🛠 Tech Stack
 
 ### 💳 PCC & Banking Domain
 ![PowerCurve](https://img.shields.io/badge/PowerCurve_Collections-PCC-blue)
